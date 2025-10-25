@@ -7,7 +7,7 @@
 ---
 
 ## 👋 About Me
-I'm ***Glenn Josia Devano***, an Undergraduate Information Systems student at ***Universitas Indoenesia*** with a strong passion for both ***Web Development*** and ***Cybersecurity***. I believe in creating technology solutions that are not only innovative and user-friendly but also secure and resilient.
+I'm ***Glenn Josia Devano***, an Undergraduate Information Systems student at ***Universitas Indonesia*** with a strong passion for both ***Cybersecurity*** and ***Web Development***. I believe in creating technology solutions that are not only innovative and user-friendly but also secure and resilient.
 
 > *"Bridging the gap between innovative web development and robust cybersecurity practices to create a safer digital future."*
 
