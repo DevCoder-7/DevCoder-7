@@ -66,8 +66,6 @@ I'm ***Glenn Josia Devano***, an Undergraduate Information Systems student at **
 
 ## 💻 Social Media
 
-###
-
 <br clear="both">
 
 <div align="left">
