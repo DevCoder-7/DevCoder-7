@@ -23,7 +23,6 @@ I'm ***Glenn Josia Devano***, an Undergraduate Information Systems student at **
 ###
 
 <div align="left">
-  <img width="12" />
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" height="30" alt="cisco logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
