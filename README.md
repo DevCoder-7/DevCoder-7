@@ -5,7 +5,7 @@
 ## 💫 About Me
 I'm ***Glenn Josia Devano***, an Undergraduate Information Systems student at ***Universitas Indonesia*** with a strong passion for both ***Cybersecurity*** and ***Web Development***. I believe in creating technology solutions that are not only innovative and user-friendly but also secure and resilient.
 
-### 🔭 Core Competencies:
+### 🔭 My Competencies:
 - **🔒 Cybersecurity Enthusiast** - Implementing security-first approaches in development
 - **💻 Web Developer** - Creating responsive and dynamic web applications  
 - **🚀 Tech Innovator** - Transforming ideas into practical digital solutions
@@ -72,7 +72,7 @@ I'm ***Glenn Josia Devano***, an Undergraduate Information Systems student at **
   <img src="https://streak-stats.demolab.com?user=DevCoder-7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
 </div>
 
-###
+---
 
 ## ⚡Progress
 
