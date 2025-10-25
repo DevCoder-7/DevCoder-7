@@ -1,4 +1,4 @@
-# Hey, there👋!
+# Hey, I'm Devan👋!
 
 **Professional portfolio showcasing innovative web development projects and cybersecurity expertise from an aspiring Information Systems professional.**
 
