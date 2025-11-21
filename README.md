@@ -91,5 +91,3 @@ I'm ***Glenn Josia Devano***, an Undergraduate Information Systems student at **
 </div>
 
 ###
-
-`sha256sum dump.7z a8729a8bb3b8e07e53059451b643d921d8ab696990a9cacc519f4fa3f63ca230 dump.7z`
