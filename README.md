@@ -62,9 +62,7 @@ I'm ***Glenn Josia Devano***, an Undergraduate Information Systems student at **
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevCoder-7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"/>
-</div>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=DevCoder-7&layout=compact&theme=dark" height="150" />
 
 ###
 
